@@ -4,18 +4,18 @@ A simple menu-driven calculator built using Python.
 
 Features:
 
--> Addition
--> Subtraction
--> Multiplication
--> Division
--> Modulus
--> Continuous execution until exit
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Modulus
+- Continuous execution until exit
 
 Concepts Used:
 
--> while loop
--> if-elif-else conditions
--> user input handling
+- while loop
+- if-elif-else conditions
+- user input handling
 
 How to Run:
 
